@@ -1,6 +1,6 @@
-# kugou
+# vue-kugou
 
-> vue spa
+> a vue SPA like kugou
 
 ## Build Setup
 
